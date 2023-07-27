@@ -5,6 +5,8 @@ Thank you for your interest in contributing to GistPad!
 
 The goal of this documentation is to provide a high-level overview of how you can build and debug the project. 
 
+Please join the communication channels to effectively communicate with the members!
+
 
 # Building, Debugging and Sildeloading the extension in Visual Studio Code:
 
