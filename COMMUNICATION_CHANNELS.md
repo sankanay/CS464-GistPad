@@ -1,3 +1,3 @@
 # Communication Channels for Collaboration
 
-[Discord Chat Server]((https://discord.com/)) for general GistPad development questions
+[Discord Chat Server](url) for general GistPad development questions
